@@ -1,4 +1,4 @@
-FROM ghcr.io/graalvm/graalvm-community:25
+FROM ghcr.io/graalvm/graalvm-community:21
 RUN microdnf install -y curl ca-certificates openssl git tar bash sqlite fontconfig
 RUN useradd -d /home/container container
 
