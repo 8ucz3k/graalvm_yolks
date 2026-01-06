@@ -1,1 +1,1 @@
-# Reizor Hosting Yolks for Pterodactyl-Based Panels
+# GraalVM CE 25 Yolk (stolen)
