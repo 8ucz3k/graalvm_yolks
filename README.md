@@ -1,1 +1,1 @@
-# GraalVM CE 25 Yolk (stolen)
+# GraalVM CE 21 Yolk (stolen)
